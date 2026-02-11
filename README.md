@@ -1,5 +1,5 @@
 # My First Git Project 
-**Name:** [Isi nama kamu] 
+**Name:** [Ronaldo Eka Putra Wabang] 
 **Date:** $(date +%Y-%m-%d) 
 ## What I'm Learning 
 - Git basics 
