@@ -4,7 +4,7 @@ body {
     background-color: #f0f0f0;
 }
 
-2 h1 {
+h1 {
     color: #333;
 }
 
@@ -29,3 +29,12 @@ body.dark-mode h1 {
     border: none;
     border-radius: 5px;
 }
+
+/* New Animations */ 
+.fade-in { 
+animation: fadeIn 0.5s; 
+} 
+@keyframes fadeIn { 
+from { opacity: 0; } 
+to { opacity: 1; } 
+} 
